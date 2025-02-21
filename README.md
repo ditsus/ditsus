@@ -1,8 +1,6 @@
 # About me
 Hi, I'm ditsu!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ditsus)](https://github.com/ditsus/github-readme-stats)
-
 <!--
 **ditsus/ditsus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
